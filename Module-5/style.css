@@ -1,0 +1,46 @@
+h1 {text-align: center;}
+
+.redtext  {
+    color: red;
+}
+.bluetext {
+    color: blue;
+}
+.greentext {
+    color: green;
+}
+
+.fontBig {
+    font-size: 50px;
+}
+.fonttiny {
+    font-size: 15px;
+}
+
+.Centertext {
+    text-align: center;
+}
+
+.Bold {
+    font-weight: bold;
+}
+
+.changefont {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.attribute {
+    font-size: 30px;
+    color: orange;
+    font-weight: bold;
+}
+
+.styledFont {
+    color: green;
+}
+
+#styledImage {
+    border: 10px;
+    border-style: solid;
+    border-color: orange;
+}
